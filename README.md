@@ -6,7 +6,7 @@ Submitted by: Jeff Chen
 
 Time spent: 3 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/cumbersome-scarlet-hyena?path=README.md%3A1%3A0
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+<img src="http://g.recordit.co/RvPq9qIt8O.gif" width=250><br>
 
 
 ## Reflection Questions
